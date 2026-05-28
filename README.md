@@ -20,7 +20,7 @@ This mod requires the following:
 
 There are **2 ways** to install this mod:
 
-## 1. Using Snakebite manager:
+## 1. Using Snakebite Manager:
 TBD
 
 ## 2. Manually:
