@@ -22,6 +22,7 @@ There are **2 ways** to install this mod:
 
 ## 1. Using SnakeBite Manager:
  - Download [Demon.Menu.mgsv](https://github.com/P1XEL0711/Demon-Menu/releases/latest/download/Demon.Menu.mgsv)
+ - Open SnakeBite
  - Click on "MODS"
  - Click on "Install .MGSV File"
  - Choose `Demon.Menu.mgsv`
