@@ -46,8 +46,11 @@ There are **2 ways** to install this mod:
 <details>
   <summary>Click to expand</summary>
 
-  ![Menu Layout](https://github.com/P1XEL0711/Demon-Menu/blob/main/screenshots/6.png)
-  ![Normal Snake](https://github.com/P1XEL0711/Demon-Menu/blob/main/screenshots/1.png)
-  ![Horned Snake](https://github.com/P1XEL0711/Demon-Menu/blob/main/screenshots/3.png)
-  ![Demon Snake](https://github.com/P1XEL0711/Demon-Menu/blob/main/screenshots/5.png)
+  | | |
+  |:---:|:---:|
+  | ![Menu Layout](screenshots/6.png?raw=true) | ![Normal Snake](screenshots/1.png?raw=true) |
+  | The Demon Menu inside the IH menu | Normal Snake (low demon points) |
+  | ![Horned Snake](screenshots/3.png?raw=true) | ![Demon Snake](screenshots/5.png?raw=true) |
+  | Horned Snake (medium demon points) | Demon Snake (max demon points) |
+
 </details>
