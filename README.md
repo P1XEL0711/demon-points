@@ -20,12 +20,17 @@ This mod requires the following:
 
 There are **2 ways** to install this mod:
 
-## 1. Using Snakebite Manager:
-TBD
+## 1. Using SnakeBite Manager:
+ - Download [Demon.Menu.mgsv](https://github.com/P1XEL0711/Demon-Menu/releases/latest/download/Demon.Menu.mgsv)
+ - Click on "MODS"
+ - Click on "Install .MGSV File"
+ - Choose `Demon.Menu.mgsv`
+ - Make sure there is no version mismatch
+ - Click on "Continue Installation"
 
 ## 2. Manually:
 
- - Download the `ogrePoints.lua` file
+ - Download [ogrePoints.lua](https://github.com/P1XEL0711/Demon-Menu/releases/latest/download/ogrePoints.lua)
  - Navigate to MGS_TPP (the game's installation folder)
  - Copy `ogrePoints.lua` to `MGS_TPP\mod\modules` (if the folder doesn't exist, then perhaps you haven't installed Infinite Heaven)
 
