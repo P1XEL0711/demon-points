@@ -45,6 +45,7 @@ There are **2 ways** to install this mod:
 # Screenshots
 <details>
   <summary>Click to expand</summary>
+
   ![Menu Layout](https://github.com/P1XEL0711/Demon-Menu/blob/main/screenshots/6.png)
   ![Normal Snake](https://github.com/P1XEL0711/Demon-Menu/blob/main/screenshots/1.png)
   ![Horned Snake](https://github.com/P1XEL0711/Demon-Menu/blob/main/screenshots/3.png)
