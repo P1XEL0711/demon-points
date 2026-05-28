@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Demon Menu" Version="1.0" Author="P1XEL" Website="https://github.com/P1XEL0711/demon-menu">
+  <MGSVersion Version="1.0.15.3" />
+  <SBVersion Version="0.9.2.2" />
+  <Description>Requires Infinite Heaven and IHHook!
+
+This is a simple Lua script that displays the amount of Snake's Demon Points through the iDroid log and allows the user to change it to a desired value (between 0 and 100000).</Description>
+  <QarEntries>
+  </QarEntries>
+  <FpkEntries />
+  <FileEntries>
+    <FileEntry FilePath="/mod/modules/ogrePoints.lua" ContentHash="F51F595FB9418C1C14E2A4E46E0E491A" />
+  </FileEntries>
+  <WmvEntries />
+</ModEntry>
